@@ -1,4 +1,4 @@
-# Multiple-Linear-Regression-Analysis
+# Wine Astringency Values Prediction
 
 In this project, a multiple linear regression analysis was conducted on a dataset containing measurements of tannin content and astringency for 37 red wines. The dataset included three key variables: MCP (tannin content measured with the methyl cellulose-based method), HA (tannin content measured with the bovine serum albumin-based method), and astringency (rated on a scale from 1 to 9 by expert tasters).
 
